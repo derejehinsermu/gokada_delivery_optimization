@@ -62,6 +62,7 @@ To run the optimization analysis:
 
     Review Results
     Analyze the output to determine optimal driver locations.
+Check out the details of this [project](https://medium.com/@derejehinsermu/optimizing-delivery-driver-locations-a-causal-inference-approach-4956bb469007) in my blog post.
 
 ## Contributing
 
